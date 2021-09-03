@@ -1,7 +1,7 @@
 Hey! You could pretty much say that I have had a busy ROBLOX career. It's a pain whenever you want to switch to a new SCPF or clan and have to explain your in-depth positions that you have occupied.
 This repo/site has been made by myself to rectify that. All entries are chronological. All entries are also positions that I worked for. Free-ranking isn't something that I endorse.
 ## SCPFs
-
+As you will probably see down below, I have a profeciency with intelligence departments.
 ### Icesniper5's SCPF
 After being transferred to a shady group dealer, I was removed from my positions. The group was removed in 2020 as it broke ROBLOX Terms of Service.
 - ISD O5 - 11
@@ -21,3 +21,6 @@ In order:
 - MTF Sigma - 9
 - ISD O5 - 1
 - O5 - X
+### lucasgmarzolla's SCPF
+- EC Director
+- MTF Alpha - 1 Task Force Captain
