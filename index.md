@@ -3,12 +3,9 @@ This repo/site has been made by myself to rectify that. All entries are chronolo
 ## SCPFs
 ### Icesniper5's SCPF
 After being transferred to a shady group dealer, I was removed from my positions. The group was removed in 2020 as it broke ROBLOX Terms of Service.
-- Peak total members: 52k
-- Date: Mar 2017 to Dec 2017
 1. ISD O5-11
 2. EC O5-7
 ### Creepsins' SCPF
 Okay so this will probably result in poeple discrediting my resume, but I'll go ahead and put it here anyways.
-- Date: Aug 2017 to Jan 2019
 1. ISD Deputy Director
-## SethWyd's SCPF
+### SethWyd's SCPF
