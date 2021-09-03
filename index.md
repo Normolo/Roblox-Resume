@@ -4,11 +4,20 @@ This repo/site has been made by myself to rectify that. All entries are chronolo
 
 ### Icesniper5's SCPF
 After being transferred to a shady group dealer, I was removed from my positions. The group was removed in 2020 as it broke ROBLOX Terms of Service.
-1. ISD O5 - 11
-2. EC O5 - 7
+- ISD O5 - 11
+- EC O5 - 7
 ### Creepsins' SCPF
-Okay so this will probably result in poeple discrediting my resume, but I'll go ahead and put it here anyways.
-1. ISD Deputy Director
+Okay so this will probably result in people discrediting my resume, but I'll go ahead and put it here anyways.
+- ISD Deputy Director
 ### SethWyd's SCPF
-1. EC O5 - 10
-2. Alpha 1 Task Force Leader
+- EC O5 - 10
+- Alpha 1 Task Force Leader
+### Jdog's SCPF
+- EC Constitute
+- ScD Head Researcher
+### k4buk1's SCPF
+In order:
+- EC Board of Ethical Judgement
+- MTF Sigma - 9
+- ISD O5 - 1
+- O5 - X
